@@ -15,6 +15,7 @@ in short
 in conclusion
 indicates that
 it follows that
+it is
 it is highly probable that
 it is my contention
 it should be clear that
@@ -35,4 +36,6 @@ thus
 the truth of the matter
 to sum up
 we may deduce
+was
+were
 Looking from another perspective
